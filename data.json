@@ -1,0 +1,118 @@
+{ 
+   "data": {
+      "graduated" : [
+         {
+            "strata":"SMA NEGERI 1 GUNUNGSITOLI",
+            "jurusan":"IPA",
+            "tahun":"2016-2019"
+         },
+         {
+            "strata":"Immanuel Christian University",
+            "jurusan":"Informatics Engineering",
+            "tahun":"2019 - Now"
+         }
+      ],
+      "nonformaleducation" : [
+      {
+         "name":"- Workshop Digital Marketing Google Trends 2019"
+      },
+         {
+            "name":"- Pelatihan Public Speaking 2019"
+         },
+         {
+            "name":"- Pelatihan Desain Grafis 2019"
+         },
+         {
+            "name":"- Belajar Dasar Pemograman Web 2020"
+         },
+         {
+            "name":"- Belajar Dasar Visualisasi Data 2020"
+         },
+         {
+            "name":"- Memulai Pemograman Dengan Python 2020"
+         },
+         {
+            "name":"- Memulai Pemograman Dengan Kotlin 2020"
+         },
+         {
+            "name":"- Belajar Prinsip Pemograman Solid 2020"
+         },
+         {
+            "name":"- Workshop Web Development Using Python 2020"
+         },
+         {
+            "name":"- Dasar Mobile Programming Android dan Kotlin 2020"
+         },
+         {
+            "name":"- Extra Fuel English Camp 2020"
+         },
+         {
+            "name":"- Pelatihan Mengoptimalkan Konten Marketing untuk Usaha Anda 2020"
+         },
+         {
+            "name":"- Pelatihan Google untuk Bisnismu 2020"
+         },
+         {
+            "name":"- Workshop Public Speaking 2020"
+         },
+         {
+            "name":"- Workshop How to Create Your Own Website 2020"
+         },
+         {
+            "name":"- Pelatihan Google Perluas Kehadiran Online Anda dengan Strategi Bisnis yang Tepat"
+         },
+         {
+            "name":"- Workshop Game Development 2020"
+         },
+         {
+            "name":"- General English Workshop for SHG 2021"
+         }
+      ],
+      "skills" : [
+         {
+            "title":"html",
+            "source":"/assets/img/icons/html.svg"
+         },
+         {
+            "title":"css",
+            "source":"/assets/img/icons/cssnew.svg"
+         },
+         {
+            "title":"javascript",
+            "source":"/assets/img/icons/javascript.svg"
+         },
+         {
+            "title":"bootstrap",
+            "source":"/assets/img/icons/boostrap.svg"
+         },
+         {
+            "title":"php",
+            "source":"/assets/img/icons/php.svg"
+         },
+         {
+            "title":"ci",
+            "source":"/assets/img/icons/ci.svg"
+         }
+      ],
+      "projects" : [
+         {
+            "title":"Aplikasi E-Kasir Khoda",
+            "deskripsi": "Aplikasi Kasir Berbasis Framework Codeigniter 3",
+            "img":"/assets/img/projects/domain.webp",
+            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+         },
+         {
+            "title":"Aplikasi Las'e Money",
+            "deskripsi": "Aplikasi Pencatatan Keuangan (Kas Masuk dan Kas Keluar) Berbasis Framework Codeigniter 3",
+            "img":"/assets/img/projects/domain.webp",
+            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+         },
+         {
+            "title":"Aplikasi E-Parkir Khoda",
+            "deskripsi": "Aplikasi Parkir Berbasis Framework Codeigniter 3",
+            "img":"/assets/img/projects/domain.webp",
+            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+         }
+      ]
+   }
+}

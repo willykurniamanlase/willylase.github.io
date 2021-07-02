@@ -1,0 +1,37 @@
+@mixin card($shadow-size, $blur, $border,) {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    background-clip: border-box;
+    word-wrap: break-word;
+    min-width: 0;
+    $light-shadow-size:-$shadow-size;
+    border-radius: $border;
+    box-shadow: $shadow-size $shadow-size $blur $shadow,
+                $light-shadow-size $light-shadow-size $blur $light-shadow,
+    // border: 1px solid rgba(0,0,0,.125);
+}
+@mixin btn($shadow-size, $blur, $border, $color: $font-color, $bg-color: $background-color) {
+    background-color: $bg-color;
+    color: $color;
+    text-decoration-line: none;
+    align-items: center;
+    display: flex;
+    cursor: pointer;
+    $light-shadow-size:-$shadow-size;
+    border-radius: $border;
+    box-shadow: $shadow-size $shadow-size $blur $shadow,
+                $light-shadow-size $light-shadow-size $blur $light-shadow,
+}
+@mixin input($shadow-size, $blur, $border) {
+    padding: 0.9em 0.8em;
+    border: $background-color;
+    background-color:$background-color;
+    background-clip: border-box;
+    word-wrap: break-word;
+    min-width: 0;
+    $light-shadow-size:-$shadow-size;
+    border-radius: $border;
+    box-shadow: $shadow-size $shadow-size $blur $shadow inset,
+                $light-shadow-size $light-shadow-size $blur $light-shadow inset,
+}
