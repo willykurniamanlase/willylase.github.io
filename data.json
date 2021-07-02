@@ -98,20 +98,20 @@
          {
             "title":"Aplikasi E-Kasir Khoda",
             "deskripsi": "Aplikasi Kasir Berbasis Framework Codeigniter 3",
-            "img":"/assets/img/projects/domain.webp",
-            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+            "img":"/assets/img/ss_aplikasi_kasir.jpeg",
+            "source":""
          },
          {
             "title":"Aplikasi Las'e Money",
             "deskripsi": "Aplikasi Pencatatan Keuangan (Kas Masuk dan Kas Keluar) Berbasis Framework Codeigniter 3",
-            "img":"/assets/img/projects/domain.webp",
-            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+            "img":"/assets/img/ss_aplikasi_keuangan.png",
+            "source":""
          },
          {
             "title":"Aplikasi E-Parkir Khoda",
             "deskripsi": "Aplikasi Parkir Berbasis Framework Codeigniter 3",
             "img":"/assets/img/projects/domain.webp",
-            "source":"https://dribbble.com/shots/15939593-DESKTOP-CLIENT/attachments/7772350?mode=media"
+            "source":""
          }
       ]
    }
